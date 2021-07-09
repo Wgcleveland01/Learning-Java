@@ -1,0 +1,17 @@
+4. What is wrong with the following variable declaration? int miles per gallon = 39.4
+5. Declare and initialize two variables, unitPrice and quantity, to contain the unit price of a single item and the number of items purchased. Use reasonable initial values.
+© Nicholas Homrich/iStockphoto.
+Practice It
+Common Error 2.1
+© John Bell/iStockphoto.
+6. Use the variables declared in Self Check 5 to display the total purchase price.
+7. What are the types of the values 0 and "0"?
+8. Which number type would you use for storing the area of a circle?
+9. Which of the following are legal identifiers?
+Greeting1
+g
+void 101dalmatians Hello, World <greeting>
+10. Declare a variable to hold your name. Use camel case in the variable name.
+11. Is 12 = 12 a valid expression in the Java language?
+12. How do you change the value of the greeting variable to "Hello, Nina!"?
+13. How would you explain assignment using the parking space analogy?
