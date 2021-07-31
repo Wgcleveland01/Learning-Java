@@ -1,0 +1,17 @@
+1:
+public void unclick(){
+   value = value - 1;
+}
+
+2: You can access these variables by adding a return function inside of the method
+
+3: I would look at the click, reset, and unclick methods as those are the only areas of code that could effect the value variable;
+
+4: The developers of Java designed and implemented System.out
+
+5: The users of the class will be the owners of the bank accounts
+
+6:
+
+
+ 
